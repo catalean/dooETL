@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ro.codebeat.doo.etl;
+package doo.etl;
 
 /**
  * @author Catalin Kormos
